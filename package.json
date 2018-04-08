@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-statsd-backend",
+  "version": "1.0.0",
+  "description": "A simple mongodb backend for etsy/statsd built with mongoose",
+  "homepage": "https://github.com/jmslocum/mongodb-statsd-backend",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "statsd"
+  ],
+  "author": "James Slocum",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.0.13"
+  }
+}
